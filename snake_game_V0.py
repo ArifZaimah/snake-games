@@ -51,7 +51,7 @@ def move():
   
   update()
   
-  Screen().ontimer(move,100)
+  Screen().ontimer(move,200)
   
 Screen().setup(420,420,370,0)
 hideturtle()
